@@ -25,7 +25,7 @@ class AdlineGD(object):
         return np.where(self.activation(X)>=0.0,1,-1)
 def plot_decision_region(X,y,classifier,resolution=0.002):
     markers=('s','x','o','^','v')
-    colors=('red','blue','lighigreen','gray','cyan')
+    colors=('red','blue','lightgreen','gray','cyan')
     cmap=ListedColormap(colors[:len(np.unique(y))])
     x1_min,x1_max=X[:,0].min()-1,X[:,0].max()+1
     x2_min, x2_max = X[:, 1].min() - 1, X[:, 1].max() + 1
