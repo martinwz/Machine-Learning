@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3741498-22a4-4b07-ba97-36f122fc34a2" name="Default Changelist" comment="" />
+    <list default="true" id="d1266f7c-2b04-4919-aefb-b2625759dbbf" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,13 +11,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/KPCA.py">
+        <entry file="file://$PROJECT_DIR$/Optimal.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="71" column="20" selection-start-line="71" selection-start-column="20" selection-end-line="71" selection-end-column="20" />
-              <folding>
-                <element signature="e#0#51#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="605">
+              <caret line="142" column="79" lean-forward="true" selection-start-line="142" selection-start-column="79" selection-end-line="142" selection-end-column="79" />
             </state>
           </provider>
         </entry>
@@ -34,13 +31,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/KPCA.py" />
+        <option value="$PROJECT_DIR$/Optimal.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="260" />
-    <option name="y" value="40" />
+    <option name="x" value="-8" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -49,18 +45,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="KPCA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KPCA" type="462c0819:PsiDirectoryNode" />
+              <item name="Optical" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Optical" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -76,8 +72,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="KPCA" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="KPCA" />
+    <configuration name="Optimal" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Optical" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -88,7 +84,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KPCA.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Optimal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +95,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.KPCA" />
+        <item itemvalue="Python.Optimal" />
       </list>
     </recent_temporary>
   </component>
@@ -108,11 +104,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b3741498-22a4-4b07-ba97-36f122fc34a2" name="Default Changelist" comment="" />
-      <created>1547555423507</created>
+      <changelist id="d1266f7c-2b04-4919-aefb-b2625759dbbf" name="Default Changelist" comment="" />
+      <created>1547603000962</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1547555423507</updated>
+      <updated>1547603000962</updated>
     </task>
     <servers />
   </component>
@@ -120,13 +116,13 @@
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1369863" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11433087" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32917964" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24922119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997923" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -140,13 +136,24 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/KPCA.py">
+    <entry file="file://D:/python3/Lib/site-packages/sklearn/linear_model/logistic.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="71" column="20" selection-start-line="71" selection-start-column="20" selection-end-line="71" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#51#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-32422">
+          <caret line="432" selection-start-line="432" selection-end-line="432" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python3/Lib/site-packages/sklearn/model_selection/_split.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="621" column="8" selection-start-line="621" selection-start-column="8" selection-end-line="621" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Optimal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="605">
+          <caret line="142" column="79" lean-forward="true" selection-start-line="142" selection-start-column="79" selection-end-line="142" selection-end-column="79" />
         </state>
       </provider>
     </entry>
